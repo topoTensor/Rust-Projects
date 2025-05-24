@@ -1,0 +1,9 @@
+[package]
+name = "Gaussian_with_nalgebra"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+nalgebra = "0.33.2"
+rand = "0.9.1"
+rand_distr = "0.5.1"
